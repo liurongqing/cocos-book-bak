@@ -1,2 +1,1 @@
-# cocos-book
-cocos 一些常用操作
+# cocos 常用操作
